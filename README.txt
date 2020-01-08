@@ -11,7 +11,7 @@ Folder Fire_Documentation_Generation contains:
 
 Folder Odstupy can be used to calculate fire safety distance (fire separation).
 	- script writes a part of fire technical documentation
-	- script draw the fire separation lines in dxf format
+	- script draws the fire separation lines in dxf format
 
 
 These scripts can be used only in Czech republic as the calculations are done according to czech technical standards
